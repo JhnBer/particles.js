@@ -2,6 +2,13 @@
 
 ### A lightweight JavaScript library for creating particles.
 
+### Fork of [particles.js](https://github.com/VincentGarreau/particles.js) to continue development and add new features. 
+
+
+***This initiative came about when I needed to add a seed feature to the library. I did it and decided to share it, then looked at the pull request for the original Git and the latest commits from 10 years ago.***
+
+***I thought that collecting all the useful stuff in one Git could help us all.***
+
 ------------------------------
 ### `Demo / Generator`
 
